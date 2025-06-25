@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rahmatrdn
+- 👋 Hi, I’m *Rahmat* Ramadhan Putra
 - 👀 I’m interested in *All About Software Development (UIUX, Product Management, Engineering, etc)*
 - 🌱 I’m currently learning *Software Design Pattern and Managing Software Engineers*
 - 💞️ I’m looking to collaborate on *building Startup Business*
